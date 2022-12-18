@@ -14,6 +14,7 @@
      * TypeScript<img src="https://skillicons.dev/icons?i=ts" style="width: 1rem;" />
      * ReactJS<img src="https://skillicons.dev/icons?i=react" style="width: 1rem;" />
    * Backend:
+     * Laravel<img src="https://skillicons.dev/icons?i=laravel" style="width: 1rem;" />
      * Java<img src="https://skillicons.dev/icons?i=java" style="width: 1rem;" />
    * Content management system:
      * WordPress<img src="https://skillicons.dev/icons?i=wordpress" style="width: 1rem;" />
