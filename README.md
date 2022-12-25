@@ -9,12 +9,12 @@
    * Backend:
      * PHP<img src="https://skillicons.dev/icons?i=php" style="width: 1rem;" />, Laravel<img src="https://skillicons.dev/icons?i=laravel" style="width: 1rem;" />
      * MySQL/MariaDB<img src="https://skillicons.dev/icons?i=mysql" style="width: 1rem;" />
+   * Content management system:
+     * WordPress<img src="https://skillicons.dev/icons?i=wordpress" style="width: 1rem;" /> 
 * <img src="https://cdn-icons-png.flaticon.com/512/1081/1081040.png" style="width: 1rem;" /> <b><i>Learning roadmap for 2022 - 2023:</i></b>
    * Frontend:
      * TypeScript<img src="https://skillicons.dev/icons?i=ts" style="width: 1rem;" />
      * ReactJS<img src="https://skillicons.dev/icons?i=react" style="width: 1rem;" />
    * Backend:
-     * Symfony<img src="https://skillicons.dev/icons?i=symfony" style="width: 1rem;" /> 
      * Java<img src="https://skillicons.dev/icons?i=java" style="width: 1rem;" />
-   * Content management system:
-     * WordPress<img src="https://skillicons.dev/icons?i=wordpress" style="width: 1rem;" />
+ 
