@@ -15,5 +15,6 @@
    * Frontend:
      * ReactJS<img src="https://skillicons.dev/icons?i=react" style="width: 1rem;" />
    * Backend:
+     * NodeJS<img src="https://skillicons.dev/icons?i=node" style="width: 1rem;" />
      * Java<img src="https://skillicons.dev/icons?i=java" style="width: 1rem;" />
  
