@@ -5,7 +5,7 @@
    * Frontend:
      * HTML5<img src="https://skillicons.dev/icons?i=html" style="width: 1rem;" />
      * CSS3<img src="https://skillicons.dev/icons?i=css" style="width: 1rem;"/>, SASS<img src="https://skillicons.dev/icons?i=sass" style="width: 1rem;" />,BootStrap<img src="https://skillicons.dev/icons?i=bootstrap" style="width: 1rem;" />
-     * JavaScript<img src="https://skillicons.dev/icons?i=js" style="width: 1rem;" />, jQuery<img src="https://skillicons.dev/icons?i=jquery" style="width: 1rem;" />, TypeScript<img src="https://skillicons.dev/icons?i=ts" style="width: 1rem;" />
+     * JavaScript<img src="https://skillicons.dev/icons?i=js" style="width: 1rem;" />, TypeScript<img src="https://skillicons.dev/icons?i=ts" style="width: 1rem;" />, jQuery<img src="https://skillicons.dev/icons?i=jquery" style="width: 1rem;" />
    * Backend:
      * PHP<img src="https://skillicons.dev/icons?i=php" style="width: 1rem;" />, Laravel<img src="https://skillicons.dev/icons?i=laravel" style="width: 1rem;" />
      * MySQL/MariaDB<img src="https://skillicons.dev/icons?i=mysql" style="width: 1rem;" />
