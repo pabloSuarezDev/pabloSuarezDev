@@ -13,8 +13,8 @@
      * WordPress<img src="https://skillicons.dev/icons?i=wordpress" style="width: 1rem;" /> 
 * <img src="https://cdn-icons-png.flaticon.com/512/1081/1081040.png" style="width: 1rem;" /> <b><i>Learning roadmap for 2022 - 2023:</i></b>
    * Frontend:
-     * ReactJS<img src="https://skillicons.dev/icons?i=react" style="width: 1rem;" />
+     * React<img src="https://skillicons.dev/icons?i=react" style="width: 1rem;" />
    * Backend:
-     * NodeJS<img src="https://skillicons.dev/icons?i=node" style="width: 1rem;" />
+     * Node<img src="https://skillicons.dev/icons?i=nodejs" style="width: 1rem;" />, Express<img src="https://skillicons.dev/icons?i=express" style="width: 1rem;" />
      * Java<img src="https://skillicons.dev/icons?i=java" style="width: 1rem;" />
  
