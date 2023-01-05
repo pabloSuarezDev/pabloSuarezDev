@@ -6,14 +6,13 @@
      * HTML5<img src="https://skillicons.dev/icons?i=html" style="width: 1rem;" />
      * CSS3<img src="https://skillicons.dev/icons?i=css" style="width: 1rem;"/>, SASS<img src="https://skillicons.dev/icons?i=sass" style="width: 1rem;" />,BootStrap<img src="https://skillicons.dev/icons?i=bootstrap" style="width: 1rem;" />
      * JavaScript<img src="https://skillicons.dev/icons?i=js" style="width: 1rem;" />, TypeScript<img src="https://skillicons.dev/icons?i=ts" style="width: 1rem;" />, jQuery<img src="https://skillicons.dev/icons?i=jquery" style="width: 1rem;" />
+     * React<img src="https://skillicons.dev/icons?i=react" style="width: 1rem;" />
    * Backend:
      * PHP<img src="https://skillicons.dev/icons?i=php" style="width: 1rem;" />, Laravel<img src="https://skillicons.dev/icons?i=laravel" style="width: 1rem;" />
      * MySQL/MariaDB<img src="https://skillicons.dev/icons?i=mysql" style="width: 1rem;" />
    * Content management system:
      * WordPress<img src="https://skillicons.dev/icons?i=wordpress" style="width: 1rem;" /> 
 * <img src="https://cdn-icons-png.flaticon.com/512/1081/1081040.png" style="width: 1rem;" /> <b><i>Learning roadmap for 2022 - 2023:</i></b>
-   * Frontend:
-     * React<img src="https://skillicons.dev/icons?i=react" style="width: 1rem;" />
    * Backend:
      * Node<img src="https://skillicons.dev/icons?i=nodejs" style="width: 1rem;" />, Express<img src="https://skillicons.dev/icons?i=express" style="width: 1rem;" />
      * Java<img src="https://skillicons.dev/icons?i=java" style="width: 1rem;" />
